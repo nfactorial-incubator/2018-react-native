@@ -19,7 +19,6 @@
 - [The Art of Comments](https://css-tricks.com/the-art-of-comments/)
 - [97 Things Every Programmer Should Know
 ](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/index.html)
-- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey
 ](https://www.youtube.com/watch?v=rI8tNMsozo0)
 - [The Silver Bullet Syndrome by Hadi Hariri
@@ -41,6 +40,11 @@
 Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [The Two Pillars of JavaScript — Pt 2: Functional Programming
 How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
+
+### Принципы хорошего кода
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript))
+- [13 Noteworthy Points from Google’s JavaScript Style Guide
+](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b)
 
 ## React
 
@@ -103,7 +107,8 @@ How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-tw
 ### Для более глубокого понимания
 - [Performance
 ](https://facebook.github.io/react-native/docs/performance.html#common-sources-of-performance-problems)
-- [https://code.fb.com/android/dive-into-react-native-performance/](https://code.fb.com/android/dive-into-react-native-performance/)
+- [Dive into React Native performance
+](https://code.fb.com/android/dive-into-react-native-performance/)
 - [Wait… What Happens When my React Native Application Starts? — An In-depth Look Inside React Native
 ](https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f)
 
