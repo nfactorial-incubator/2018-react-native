@@ -25,13 +25,6 @@
 - [The Silver Bullet Syndrome by Hadi Hariri
 ](https://www.youtube.com/watch?v=3wyd6J3yjcs)
 
-### Архитектурные паттерны (с уклоном на JS)
-- [Design Patterns JS](https://github.com/fbeline/Design-Patterns-JS/blob/master/docs.md)
-- [The Two Pillars of JavaScript
-Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
-- [The Two Pillars of JavaScript — Pt 2: Functional Programming
-How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
-
 ## JavaScript
 
 ### Для более глубокого понимания
@@ -41,6 +34,13 @@ How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-tw
 ](https://github.com/getify/Functional-Light-JS)
 - [Common Misconceptions About Inheritance in JavaScript
 ](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
+
+### Архитектурные паттерны
+- [Design Patterns JS](https://github.com/fbeline/Design-Patterns-JS/blob/master/docs.md)
+- [The Two Pillars of JavaScript
+Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
+- [The Two Pillars of JavaScript — Pt 2: Functional Programming
+How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 
 ## React
 
