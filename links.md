@@ -32,6 +32,16 @@ Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scen
 - [The Two Pillars of JavaScript — Pt 2: Functional Programming
 How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 
+## JavaScript
+
+### Для более глубокого понимания
+- [You Don't Know JS (book series)
+](https://github.com/getify/You-Dont-Know-JS)
+- [Functional-Light JavaScript
+](https://github.com/getify/Functional-Light-JS)
+- [Common Misconceptions About Inheritance in JavaScript
+](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
+
 ## React
 
 ### Источники ресурсов
@@ -51,16 +61,21 @@ How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-tw
 - [Intro To React Workshop
 ](https://github.com/ericvicenti/intro-to-react)
 
+### Принципы хорошего кода
+- [Our Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8)
+- [Clean Code vs. Dirty Code: React Best Practices
+](https://americanexpress.io/clean-code-dirty-code/)
+
 ### Архитектурные паттерны
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
-- [The Elegance Of React](https://medium.com/javascript-inside/the-elegance-of-react-ebc21a2dcd19)
 - [React Bits](https://github.com/vasanthk/react-bits)
-- [Our Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8)
 - [How to Organize a Large React Application and Make It Scale](https://www.sitepoint.com/organize-large-react-application/)
 - [Extracting Logic from React Components
 ](https://javascriptplayground.com/react-extracting-logic/)
 - [7 architectural attributes of a reliable React component
 ](https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/)
+- [Writing Scalable React Apps with the Component Folder Pattern
+](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
 
 ### Производительность
 - https://flexport.engineering/optimizing-react-rendering-part-1-9634469dca02
@@ -68,7 +83,7 @@ How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-tw
 ### Истории от компаний
 - [How Airtable uses React](https://medium.com/@matt_bush/how-airtable-uses-react-5e37066a87d4#.qjj5syfnf)
 
-# React-native
+## React Native
 
 ### Почему RN?
 - [Why React Native Is The Best Choice For Making Native Apps](https://formidable.com/blog/2017/why-react-native-is-best-for-native-apps/)
@@ -76,10 +91,27 @@ How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-tw
 
 ### Для начинающего
 - [React Native Express – Learn React Native, the cross-platform app framework](http://www.reactnativeexpress.com/)
+- [React Native Styling Cheat Sheet
+](https://github.com/vhpoet/react-native-styling-cheat-sheet)
 
 ### Туториалы
+- [How To Build A Chat App With React Native
+](https://blog.expo.io/how-to-build-a-chat-app-with-react-native-3ef8604ebb3c)
+- [Tutorial: AirBNB UI Clone
+](https://blog.expo.io/tutorial-airbnb-ui-clone-8bfce9551ec1?source=collection_home---6------4----------------)
+- [ARKit in React Native Tutorial: The Basics
+](https://blog.expo.io/arkit-in-react-native-tutorial-the-basics-9f839539f0b9?source=collection_home---6------6----------------)
 - [Build a lunch recommendation app — React Native School](https://medium.com/react-native-development/build-a-lunch-recommendation-app-react-native-school-fdc05de70811)
 - [Network layer in React Native](https://medium.com/dailyjs/network-layer-in-react-native-eec841f11861)
+- [fastlane for React Native iOS & Android app DevOps
+](https://medium.com/react-native-training/fastlane-for-react-native-ios-android-app-devops-8ca85bee614e)
+
+### Для более глубокого понимания
+- [Performance
+](https://facebook.github.io/react-native/docs/performance.html#common-sources-of-performance-problems)
+- [https://code.fb.com/android/dive-into-react-native-performance/](https://code.fb.com/android/dive-into-react-native-performance/)
+- [Wait… What Happens When my React Native Application Starts? — An In-depth Look Inside React Native
+](https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f)
 
 ### Истории от компаний
 - [React Native at WalmartLabs](https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560#.7td4th6k8)
