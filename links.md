@@ -77,12 +77,6 @@ How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-tw
 - [Writing Scalable React Apps with the Component Folder Pattern
 ](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
 
-### Производительность
-- https://flexport.engineering/optimizing-react-rendering-part-1-9634469dca02
-
-### Истории от компаний
-- [How Airtable uses React](https://medium.com/@matt_bush/how-airtable-uses-react-5e37066a87d4#.qjj5syfnf)
-
 ## React Native
 
 ### Почему RN?
@@ -115,9 +109,16 @@ How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-tw
 
 ### Истории от компаний
 - [React Native at WalmartLabs](https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560#.7td4th6k8)
-- [A listing of companies (or teams) that use React Native in their apps](https://github.com/fiber-god/react-native-bet)
-- [11 mistakes I’ve made during React Native / Redux app development](https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9)
+- [React Native at Instagram
+](https://instagram-engineering.com/react-native-at-instagram-dd828a9a90c7)
+- [How Bloomberg Used React Native to Develop its new Consumer App
+](https://www.techatbloomberg.com/blog/bloomberg-used-react-native-develop-new-consumer-app/)
+- [Supporting React Native at Pinterest
+](https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6)
+- [Powering UberEATS with React Native and Uber Engineering
+](https://eng.uber.com/ubereats-react-native/)
 - [How Progressly Used React Native to Build a Cross-Platform Mobile Product](https://blog.progressly.com/how-progressly-used-react-native-to-build-a-cross-platform-mobile-product-1211959c27ae)
+- [A listing of companies (or teams) that use React Native in their apps](https://github.com/fiber-god/react-native-bet)
 - [Apps made with React Native](http://madewithreactnative.com/)
 
 ### Приложения с открытым исходным кодом
