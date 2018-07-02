@@ -13,4 +13,4 @@ http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topMovies/limit
 - Implement DetailedFilms
 - Implement Theme with Provider
 
-https://files.slack.com/files-pri/T1DSP05RQ-F5XQ9BHC5/2015-10-01-segmented-control.gif
+https://github.com/n17r-resources/react-native/blob/master/Homeworks/Homework%20%235%20(Additional)/images/2015-10-01-segmented-control.gif
